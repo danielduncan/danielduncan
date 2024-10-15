@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @danielduncan
-- 👀 I’m interested in deep tech, mainly quantum computing and artificial intelligence (machine learning in particular).
-- 🌱 I’m currently learning how to be a better software engineer, as well as Qiskit and PyTorch in my spare time.
-- 💞️ I’m looking to collaborate on anything quantum computing related, or introductory level machine learning.
+- 👋 Hi, I’m @danielduncan.
+- 👀 I’m interested in deep tech, namely quantum computing and artificial intelligence. I also have an interest in cryptography.
+- 🌱 I’m currently learning how to develop quantum algorithms, and improving my understanding of machine learning methods.
+- 💞️ I’m looking to collaborate on anything quantum computing, machine learning, or cryptography related.
 - 📫 You can contact me at danieljzduncan@gmail.com.
 
 <!---
